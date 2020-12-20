@@ -396,7 +396,7 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications/Soundflower;
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
-				PRODUCT_BUNDLE_IDENTIFIER = com.cycling74.Soundflowerbed;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bigmousestudio.Soundflowerbed;
 				PRODUCT_NAME = Soundflowerbed;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SECTORDER_FLAGS = "";
@@ -426,7 +426,7 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications/Soundflower;
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
-				PRODUCT_BUNDLE_IDENTIFIER = com.cycling74.Soundflowerbed;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bigmousestudio.Soundflowerbed;
 				PRODUCT_NAME = Soundflowerbed;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SECTORDER_FLAGS = "";
